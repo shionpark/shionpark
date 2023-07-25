@@ -2,7 +2,7 @@
 
 <div style="display:flex; flex-direction:row;">
   <a href="https://shionpark.notion.site/31068c4ff7d44cc08acae8d022cab24d?v=961396f21ec047ce9b638f5772a98d73&pvs=4" target="_blank"><img src="https://img.shields.io/badge/Today I Learned-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://velog.io/@bakkomcoder" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <!--<a href="https://velog.io/@bakkomcoder" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>-->
   <img src="https://img.shields.io/badge/seoy1108@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/seoyoung-park-053a00224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </div>
@@ -24,7 +24,7 @@ Hi there! I'm a __web developer__ focusing on front-end web development.
   <img src="https://img.shields.io/badge/CSS3-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkkompark&show_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shionpark&show_icons=true&theme=holi)
 
 <!--
 **bkkompark/bkkompark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
