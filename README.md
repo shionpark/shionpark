@@ -1,7 +1,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:9DB0DB,100:94001&height=180&section=header&text=Shion's%20Github%20👋&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff"/>
 
 <div style="display:flex; flex-direction:row;">
-  <a href="https://psyoung.notion.site/31068c4ff7d44cc08acae8d022cab24d?v=961396f21ec047ce9b638f5772a98d73&pvs=4" target="_blank"><img src="https://img.shields.io/badge/Today I Learned-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://shionpark.notion.site/31068c4ff7d44cc08acae8d022cab24d?v=961396f21ec047ce9b638f5772a98d73&pvs=4" target="_blank"><img src="https://img.shields.io/badge/Today I Learned-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://velog.io/@bakkomcoder" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/seoy1108@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/seoyoung-park-053a00224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
