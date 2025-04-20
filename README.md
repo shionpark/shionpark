@@ -2,14 +2,15 @@
 
 ## ✨ Shion's Playground ✨
 
-안녕하세요! 👋 **프론트엔드 개발 여정**을 즐기고 있는 **Shion**입니다.
-
-**사용자 경험**에 진심을 담아, 눈에 보이는 아름다움은 물론 **만족스러운 사용성**까지 갖춘 웹을 만들고 싶어해요. React와 TypeScript 조합을 특히 좋아하고, 모노레포, 디자인 시스템, CRM처럼 규모 있는 프로젝트에서 **실질적인 문제 해결**을 즐기는 편입니다. 코드를 짤 때마다 '이걸 어떻게 더 좋게 만들 수 있을까?' 고민하는 게 일상이죠. 🤓
+안녕하세요! 👋 프론트엔드 개발자 Shion입니다.  
+사용자 경험에 진심을 담아, 더 쉽고 빠르게 쓸 수 있는 웹을 만들고자 노력합니다.  
+눈에 보이는 디자인뿐 아니라 인터랙션과 구조까지 고민하며, 문제를 잘 해결하는 코드를 지향합니다.  
+React + TypeScript 조합을 즐기며, 디자인 시스템, CRM, 모노레포 환경에서의 실무 경험을 쌓아왔습니다. 
 
 ### 💌 Contact
 
 <div style="display:flex; flex-direction:row;">
-  <a href="https://kkomz.tistory.com" target="_blank"><img src="https://img.shields.io/badge/기술 블로그-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+  <a href="https://shion-log.vercel.app" target="_blank"><img src="https://img.shields.io/badge/기술 블로그-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="mailto:seoy1108@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/seoyoung-park-053a00224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </div>
@@ -22,6 +23,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
@@ -31,10 +33,24 @@
 ### ⚙️ Tools & Dev Environment
 
 <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApexCharts-FF4B4B?style=flat-square&logo=apexcharts&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+</div>
+
+### ☁️ Deployment
+
+<div>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</div>
+
+### 🤝 Collaboration
+
+<div>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </div>
 
 ---
@@ -50,46 +66,31 @@
 
 ## 🏆 Project Highlights
 
-### 🛠 CRM 기능 개선 및 커스터마이징
+### 💼 피트니스 CRM 시스템 개발 (Gymlight Manager)
+- 회원·직원·팀·지점·락커·출결 등 헬스장 운영 전반의 기능을 프론트엔드에서 전담 개발  
+- React + TypeScript 기반 SPA 구조 설계, 상태 관리(Recoil), 서버 연동(React Query) 적용  
+- ApexCharts와 Kakao Maps API를 활용해 통계 시각화 및 위치 기반 기능 구현  
+- 기능 명세 정의, QA 문서 작성, 클라이언트 피드백 기반 UI 개선까지 전체 개발 사이클 경험  
 
-- **CRM 시스템**의 UI/UX를 전반적으로 개선하고, **맞춤형 기능**을 추가하여 사용자 경험을 향상시켰습니다.
-- **React**와 **Recoil 상태 관리**를 활용하여 복잡한 필터, 검색, 정렬 기능을 구현했습니다.
-- 팀 및 직원 관리 기능 개발: 필터링, 검색, 체크박스 선택, 페이징 기능을 추가하여 대량 데이터 처리의 효율성을 높였습니다.
-- 지점(Branch) 선택 시 관련 데이터가 동적으로 변경되도록 최적화하여 성능을 개선했습니다.
+### 🧩 디자인 시스템 및 모노레포 환경 구축
+- 모노레포 구조에서 공통 UI 컴포넌트 개발 및 Storybook 기반 문서화 수행  
+- Dropdown, Checkbox, Modal 등 컴포넌트 개발 및 스타일/동작 일관성 유지에 중점  
+- 컴포넌트 props 기반의 재사용성과 확장성을 고려한 구조 설계 경험  
 
----
+### 📦 모달 시스템 리팩토링
+- 다양한 크기의 모달을 독립적으로 제어할 수 있도록 상태 구조 개선  
+- Recoil을 활용한 상태 관리 로직 최적화 및 모달 내 입력 상태 초기화 처리 구현  
 
-### 🎨 디자인 시스템 및 모노레포 환경 구축
+### 📝 테이블 및 필터링 UX 개선
+- React Table을 기반으로 필터링, 정렬, 체크박스 선택 등 데이터 테이블 UX 구현  
+- Recoil 상태를 배열 기반으로 관리하여 다중 선택 및 조건 검색의 성능 최적화  
+- 실시간 필터링/정렬 조합에 따른 지점별·팀별 데이터 조회 최적화 경험  
 
-- **모노레포 환경**에서 디자인 시스템을 개발하고, 공통 UI 컴포넌트를 체계적으로 관리했습니다.
-- **Styled-components**와 **Storybook**을 활용해 재사용 가능한 UI 컴포넌트를 구축했습니다.
-- 드롭다운, 체크박스, 테이블, 모달 등의 컴포넌트를 최적화하여 유지보수성을 높였습니다.
-- **접근성(A11Y)** 및 **다크 모드 대응**을 고려하여 사용자 친화적인 디자인 시스템을 설계했습니다.
-
----
-
-### 🏋️‍♀️ 헬스장 고객 관리 프로그램
-
-- 고객 정보 및 멤버십 관리 기능을 구현하여 헬스장 운영의 효율성을 개선했습니다.
-- **Recoil 상태 관리**를 이용해 필터링 및 검색 기능을 개발하고 UX를 개선했습니다.
-- 체크박스를 활용한 대량 선택 및 일괄 처리 기능을 추가하여 관리자 작업 시간을 단축시켰습니다.
-
----
-
-### 📑 모달 시스템 개선
-
-- 다양한 크기(작은 모달, 큰 모달)가 동적으로 적용 가능하도록 모달 시스템을 개선했습니다.
-- 여러 개의 모달이 독립적으로 열리고 닫힐 수 있도록 **Recoil 상태 관리**를 최적화했습니다.
-- 모달 내 폼(Form)의 상태 유지 및 입력 값 초기화 로직을 추가하여 사용자 편의성을 높였습니다.
+### 🧾 QA 문서 및 협업 경험
+- 기능 명세 기반 QA 테스트 문서 작성 및 검수 절차 정립 경험  
+- Notion, Discord, GitHub를 활용한 비대면 협업 프로세스 경험  
+- PR 기반 코드 리뷰, 기능별 브랜치 관리, 일정 조율 등 팀 단위 협업 능력 강화  
 
 ---
 
-### 📝 테이블 필터링 및 검색 기능 최적화
-
-- **React Table**을 활용해 필터링, 정렬, 체크박스 선택 기능을 개발하며 데이터 처리 속도를 개선했습니다.
-- 지점별 필터링, 팀별 검색, 다중 선택 기능 등을 추가하여 사용자의 요구사항에 유연하게 대응했습니다.
-- **Recoil 상태 관리**를 통해 체크박스 상태를 배열로 관리하며 성능 최적화를 달성했습니다.
-
----
-
-함께 웹을 더 멋지게 만들어갈 동료를 찾고 있어요! 언제든 편하게 연락 주세요. 🚀
+협업을 좋아하고, 새로운 도전을 즐깁니다. 편하게 이야기 걸어주세요!
