@@ -2,10 +2,17 @@
 
 ## ✨ Shion's Playground ✨
 
-안녕하세요! 👋 프론트엔드 개발자 Shion입니다.  
-사용자 경험에 진심을 담아, 더 쉽고 빠르게 쓸 수 있는 웹을 만들고자 노력합니다.  
-눈에 보이는 디자인뿐 아니라 인터랙션과 구조까지 고민하며, 문제를 잘 해결하는 코드를 지향합니다.  
-React + TypeScript 조합을 즐기며, 디자인 시스템, CRM, 모노레포 환경에서의 실무 경험을 쌓아왔습니다. 
+안녕하세요! 👋 프론트엔드 개발자 Shion(박서영)입니다.  
+**문제를 정의하고, 사용자의 흐름을 따라 해결하는 개발자**를 지향합니다.  
+데이터 기반 서비스와 복잡한 운영 시스템을 구조화해 사용자 친화적인 UI/UX로 구현하는 데 관심이 많습니다.
+
+- React + TypeScript 기반의 SPA 아키텍처에 익숙하며,  
+- **Recoil**, **React Query**, **Storybook**, **CI/CD 자동화**, **모노레포** 환경에서 실무 경험이 있습니다.  
+- 특히 **운영 효율을 높이는 구조 설계**와 **비대면 협업 경험**을 강점으로 가지고 있습니다.
+
+> 실수 없이 목적을 달성할 수 있는 UI,  
+> 운영 흐름 전체를 시스템으로 설계하는 프론트엔드를 만들고 싶습니다.
+
 
 ### 💌 Contact
 
@@ -21,37 +28,51 @@ React + TypeScript 조합을 즐기며, 디자인 시스템, CRM, 모노레포 �
 
 ### 🎨 Frontend
 
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)
+![Styled Components](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
 ### ⚙️ Tools & Dev Environment
 
-<div>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ApexCharts-FF4B4B?style=flat-square&logo=apexcharts&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
-</div>
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-FF4B4B?style=flat-square&logo=apexcharts&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### ☁️ Deployment
 
-<div>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</div>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudtype](https://img.shields.io/badge/Cloudtype-FF8C00?style=flat-square)
 
 ### 🤝 Collaboration
 
-<div>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+---
+
+## 🏆 Project Highlights
+
+### 💼 Gymlight Manager - 피트니스 운영 플랫폼
+- 1년 5개월간 프론트엔드 전체 개발 및 운영 담당
+- **회원, 상담, 상품, 락커, 출결 등 실무 흐름을 시스템으로 전환**하여 업무 자동화 구현
+- 지점별 락커 구조 자동 배치 기능 설계로 입력 항목 3개 감소, 평균 배정 시간 16.7% 단축
+- 카드형 UI와 3단계 전자 계약 흐름으로 복잡한 계약 과정을 시각적으로 일원화
+- ApexCharts, Kakao Maps 기반 **10종 이상 통계 시각화 + 위치 기반 서비스** 구축
+
+### 🧩 디자인 시스템 · 모노레포 환경 구성
+- 공통 컴포넌트 개발, Storybook 기반 문서화
+- 컴포넌트 재사용성과 동작 일관성을 고려한 구조 설계
+- 서비스 코드와 디자인 시스템을 분리한 **모노레포 구조 도입**
+
+### 🧾 CI/CD 자동화 및 QA 프로세스 경험
+- GitHub Actions + Cloudtype 기반 **무중단 배포 자동화**
+- QA 문서화 및 테스트 시나리오 작성 → 릴리즈 효율 향상
+- 비대면 외주 환경에서 Notion/Figma 기반 협업으로 피드백 주도
 
 ---
 
@@ -64,33 +85,5 @@ React + TypeScript 조합을 즐기며, 디자인 시스템, CRM, 모노레포 �
 
 ---
 
-## 🏆 Project Highlights
-
-### 💼 피트니스 CRM 시스템 개발 (Gymlight Manager)
-- 회원·직원·팀·지점·락커·출결 등 헬스장 운영 전반의 기능을 프론트엔드에서 전담 개발  
-- React + TypeScript 기반 SPA 구조 설계, 상태 관리(Recoil), 서버 연동(React Query) 적용  
-- ApexCharts와 Kakao Maps API를 활용해 통계 시각화 및 위치 기반 기능 구현  
-- 기능 명세 정의, QA 문서 작성, 클라이언트 피드백 기반 UI 개선까지 전체 개발 사이클 경험  
-
-### 🧩 디자인 시스템 및 모노레포 환경 구축
-- 모노레포 구조에서 공통 UI 컴포넌트 개발 및 Storybook 기반 문서화 수행  
-- Dropdown, Checkbox, Modal 등 컴포넌트 개발 및 스타일/동작 일관성 유지에 중점  
-- 컴포넌트 props 기반의 재사용성과 확장성을 고려한 구조 설계 경험  
-
-### 📦 모달 시스템 리팩토링
-- 다양한 크기의 모달을 독립적으로 제어할 수 있도록 상태 구조 개선  
-- Recoil을 활용한 상태 관리 로직 최적화 및 모달 내 입력 상태 초기화 처리 구현  
-
-### 📝 테이블 및 필터링 UX 개선
-- React Table을 기반으로 필터링, 정렬, 체크박스 선택 등 데이터 테이블 UX 구현  
-- Recoil 상태를 배열 기반으로 관리하여 다중 선택 및 조건 검색의 성능 최적화  
-- 실시간 필터링/정렬 조합에 따른 지점별·팀별 데이터 조회 최적화 경험  
-
-### 🧾 QA 문서 및 협업 경험
-- 기능 명세 기반 QA 테스트 문서 작성 및 검수 절차 정립 경험  
-- Notion, Discord, GitHub를 활용한 비대면 협업 프로세스 경험  
-- PR 기반 코드 리뷰, 기능별 브랜치 관리, 일정 조율 등 팀 단위 협업 능력 강화  
-
----
-
-협업을 좋아하고, 새로운 도전을 즐깁니다. 편하게 이야기 걸어주세요!
+### 🙌 함께 협업할 기회를 기다리고 있습니다.  
+기획과 디자인을 이해하고, 시스템을 함께 고민할 수 있는 개발자를 찾고 계시다면 언제든지 연락 주세요!
