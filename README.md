@@ -1,78 +1,36 @@
-# Shion Park
+# 박서영 | 프론트엔드 개발자
 
-데이터에서 출발해 사용자 여정 전체를 설계·구현하는 프론트엔드 개발자입니다.
+변경 영향을 살피고 구현부터 검증까지 챙기는 프론트엔드 개발자입니다. 보험 설계사용 웹앱의 화면과 API를 담당했고, 헬스장 운영 시스템과 앱 프로젝트에서 공용 UI·상태 처리·QA를 경험했습니다.
 
-현재 4인 스타트업에서 React·Next.js 기반 프론트엔드를 단독 운영하고 있으며,
-백엔드(NestJS) API 설계부터 퍼널 분석, AI 자동화까지 서비스에 필요한 영역을 직접 만들어 운영하고 있습니다.
+[이메일](mailto:seoy1108@gmail.com) · [기술 블로그](https://shion-blog.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/seoyoung-park-053a00224/)
 
-### Contact
+## 주요 프로젝트
 
-[![Blog](https://img.shields.io/badge/Blog-shion--blog.vercel.app-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://shion-blog.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seoy1108@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seoyoung-park-053a00224/)
+### SAIRO React Native 전환 (진행 중)
+[저장소](https://github.com/shionpark/sairo-rn) · Expo SDK 57, React Native 0.86, MMKV, TypeScript
 
----
+기존 Capacitor 앱의 추천 로직과 피드 화면을 RN으로 옮기고 있습니다. 웹 로직 22개 파일 중 20개를 수정 없이 사용했으며, Android dev build에서 저장값 유지와 피드의 로딩·에러·저장·상세 진입/복귀를 확인했습니다. iOS는 아직 실행하지 않았습니다.
 
-## Tech Stack
+### SAIRO Capacitor 앱
+[저장소](https://github.com/sairo-busan/cultural-fit-busan) · [웹앱](https://cultural-fit-busan.vercel.app/)
 
-### Frontend
+부산 방문 외국인을 위한 장소 추천 앱입니다. Capacitor 앱 개발과 2026년 9월 원스토어 출시에 참여했습니다.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+### MOODFIT
+[저장소](https://github.com/moodyfit/mood-app)
 
-### State & Data Fetching
+웹·앱 빌드를 분리해 iOS 시뮬레이터에서 확인했습니다. 팀원 PR 11건을 리뷰하며 변경 영향과 데이터 정리 스크립트의 위험을 점검했습니다.
 
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=flat-square)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)
+### Gymlight Manager 데모
+[저장소](https://github.com/shionpark/gymlight-demo) · [데모 웹앱](https://gymlight-demo.vercel.app/)
 
-### Backend
+헬스장 운영 시스템의 프론트엔드 데모입니다. MSW로 서버 응답을 재현해 역할별 화면을 확인할 수 있습니다.
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### Run Fit
+[저장소](https://github.com/runfit26/run-fit) · [웹앱](https://run-fit-eight.vercel.app/)
 
-### AI & Analytics
+러닝 크루 탐색 프로젝트입니다. 공용 컴포넌트와 Storybook 배포 CI/CD를 구축하고, 필터 상태를 URL에 유지했습니다.
 
-![Claude](https://img.shields.io/badge/Claude%20Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square)
-![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+## 주로 사용한 기술
 
-### Infra & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## Projects
-
-### 인톡 파트너스 — 보험설계사 육성·매칭 SaaS
-프론트엔드(Next.js) + 백엔드(NestJS)를 단독 운영. 20개 이상의 주요 기능 구현.
-- 🔗 https://www.intalkpartners.com
-
-### 인톡 케어 — GA 매칭 B2B 플랫폼
-파트너스-케어 간 API 연동 아키텍처 설계, 고관여 후보자 매칭 파이프라인 구현.
-- 🔗 https://intalkcare.com
-
-### Gymlight Manager — 헬스장 운영 관리 시스템
-회원·직원·매출 데이터를 통합 관리하는 어드민 시스템의 프론트엔드 개발.
-- 🔗 https://gymlight-demo.vercel.app
-- 📂 [gymlight-demo](https://github.com/shionpark/gymlight-demo)
-
-### Run Fit — 러닝 크루 탐색 플랫폼
-코드잇 부트캠프 팀 프로젝트. 섹션별 Suspense Boundary, URL 기반 필터 상태 관리.
-
-### shion-blog — 기술 블로그
-Next.js + MDX + Obsidian 기반. git push → Vercel 자동 배포.
-- 🔗 https://shion-blog.vercel.app
-- 📂 [shion-blog](https://github.com/shionpark/shion-blog)
+TypeScript · React · Next.js · React Native(Expo) · TanStack Query · Storybook · GitHub Actions
